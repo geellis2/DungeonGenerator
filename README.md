@@ -5,7 +5,7 @@ essentially it will build a group of encounters that are what should be expected
 to use:
 run make, then type ./DG "beastiary filename" "APL"
 where "beastiary filename" should be beastiary.txt or another file following the same format as beastiary.txt
-and "APL" is the average party level, which can e found in the pathfinder srd at http://paizo.com/pathfinderRPG/prd/
+and "APL" is the average party level, which can be found in the pathfinder srd at http://paizo.com/pathfinderRPG/prd/
 
 features that should be added:
 this program will generate a dungeon filled with semi-related monsters, but it hasn't been made meticulous enough to generate dungeons that actually make sense. 
@@ -14,7 +14,7 @@ make the information presented more as a story rather than a list of bad guys.
 better description and generation of traps.
 allow user to specify whether they want traps.
 
-Code needs to be commented better, and should be seperated into different files, rather than just thrown into one called beastiary.cpp
+Code needs to be commented better, and should be separated into different files, rather than just thrown into one called beastiary.cpp
 not sure about asking user for beastiary file, but not poisons file.
 
 
