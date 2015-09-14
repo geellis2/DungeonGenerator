@@ -1,0 +1,22 @@
+Black adder venom	1
+Bloodroot	1
+Blue whinnis	1
+Greenblood oil	1
+Small centipede poison	1
+Medium spider venom	2
+Giant wasp poison	3
+Large scorpion venom	3
+Malyass root paste	3
+Sassone leaf residue	3
+Shadow essence	3
+Ungol dust	3
+Insanity mist	4
+Nitharit	4
+Purple worm poison	4
+Deathblade	5
+Terinav root	5
+Wyvern poison	5
+Burnt othur fumes	6
+Dragon bile	6
+Graham's special brew	7
+Black lotus extract	8
